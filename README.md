@@ -1,1 +1,3 @@
-# covid-dashboard
+# CoronaVirus Forecast
+
+https://virusforecaster.herokuapp.com/
